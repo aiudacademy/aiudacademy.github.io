@@ -21,9 +21,8 @@ title: Aiuda Academy
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Books:
+    - Intro to Programming with Python: "https://aiudacademy.github.io/ip_python/"
   Author's home: "https://aiuda-academy.thinkific.com/"
 
 ################
