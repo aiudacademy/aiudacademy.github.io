@@ -21,7 +21,7 @@ title: Aiuda Academy
 
 navbar-links:
   #About Me: "aboutme"
-  Books:
+  Books, Tutorials and Courses:
     - Intro to Programming with Python: "https://aiudacademy.github.io/ip_python/"
     - Machine Learning: "https://nmlemus.github.io/ml/"
   Author's home: "https://aiuda-academy.thinkific.com/"
